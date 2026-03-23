@@ -24,6 +24,7 @@ sales_records = []
 CATEGORIES = ["Electronics", "Clothing", "Groceries", "Furniture", "Sports"]
 
 # Pre-populate with demo data so charts aren't empty on first load
+#added just for a commit 
 def _seed_demo_data():
     random.seed(7)
     months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun"]
