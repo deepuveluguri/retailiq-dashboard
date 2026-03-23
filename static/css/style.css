@@ -49,7 +49,7 @@ body {
   z-index: 1000;
 }
 .brand-logo {
-  width: 36px; height: 36px;
+  width: 37px; height: 37px;
   background: linear-gradient(135deg, #16a34a, #0891b2);
   border-radius: 10px;
   display: flex; align-items: center; justify-content: center;
